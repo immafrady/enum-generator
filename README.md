@@ -1,2 +1,3 @@
 # enum-generator
-generate javascript enum file
+
+目标：因通过动态形式生成的枚举会缺乏代码提示，因此通过执行的方式，在目标路径下生成 “*.g.js” 的枚举文件。
